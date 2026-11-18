@@ -29,3 +29,6 @@ build/
 
 # Generated user PDFs from local runs
 *_evaluation.pdf
+
+backend/
+frontend/
